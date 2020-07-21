@@ -1,0 +1,162 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+}
+
+h1 {
+  color: #66BFBF;
+  font-family: 'Mrs Saint Delafield', cursive;
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+}
+
+hr {
+  border-style: dotted none none;
+  width: 5%;
+  border-width: 0.4rem;
+  border-color: lightgray;
+  margin: 100px auto 100px auto;
+}
+
+p {
+  font-family: 'Poiret One', cursive;
+  margin-top: 0;
+  font-size: 20px;
+}
+
+h2 {
+  color: #66BFBF;
+  font-family: 'Poiret One', cursive;
+  font-size: 2.5rem;
+  margin-top: 0;
+}
+
+h3 {
+  color: #11999E;
+}
+
+a {
+  color: #11999E;
+  text-decoration: none;
+}
+a:hover{
+  color: #EAF6F6;
+}
+
+.intro-text{
+  display: inline-block;
+  width: 50%
+}
+.profile-image {
+  width: 20%;
+  margin: 50px auto 50px auto;
+}
+
+.subtitle {
+  font-weight: normal;
+}
+
+.top-container {
+  background-color: #e4f9f5;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container {}
+
+.bottom-container {
+  background-color: #66BFBF;
+  padding-top: 3%;
+  padding-bottom: 3%;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.bottom-cloud {
+  position: absolute;
+}
+
+.top-cloud {
+  position: absolute;
+  top: 50px;
+  right: 450px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.skill-image-pm {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.skill-image-web {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.contact-text {
+  font-size: 16px;
+  width: 50%;
+  display: inline-block;
+}
+
+.footer-text{
+  font-size: 13px;
+  color: #EAF6F6;
+}
+
+.footer-link1{
+  color: #11999E;
+  display: inline-block;
+  padding: 10px;
+
+}
+
+.footer-link2{
+  color: #11999E;
+  display: inline-block;
+  padding: 10px;
+
+}
+.footer-link3{
+  color: #11999E;
+  display: inline-block;
+  padding: 10px;
+
+}
+
+.btn {
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+  color: #FFFFFF;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 20px;
+  font-weight: 100;
+  padding: 15px;
+  background-color: #11999E;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+  margin: 60px auto 60px auto;
+}
+
+.btn:hover {
+  background: #24DBE2;
+  border: solid #24DBE2 1px;
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+  text-decoration: none;
+}
